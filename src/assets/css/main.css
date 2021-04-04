@@ -22,3 +22,15 @@ body {
     margin-right: auto;
     padding: 10px
 }
+
+#nav-bar {
+    list-style-type: none;
+}
+
+.nav-bar-item {
+    display: inline-block;
+}
+
+a {
+    color: ghostwhite
+}

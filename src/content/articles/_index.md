@@ -2,6 +2,7 @@
 title: "Articles"
 date: 2021-04-04T08:16:50+01:00
 draft: false
+menu: "main"
 ---
 
 # Articles
