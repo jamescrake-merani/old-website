@@ -1,0 +1,19 @@
+<!DOCTYPE HTML>
+{{ $style := resources.Get "css/main.css" }}
+<html>
+    <head>
+        <meta charset="UTF-8">
+        <title>{{ .Site.Title }}</title>
+        <link rel="stylesheet" href="{{ $style.Permalink }}">
+    </head>
+    <body>
+        <div id="header">
+            <h1 id="site-header">James Crake-Merani</h1>
+            <hr>
+        </div>
+        <div id="content">
+            {{ block "main" . }}
+            {{ end }}
+        </div>
+    </body>
+</html>
