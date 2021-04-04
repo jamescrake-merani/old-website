@@ -11,5 +11,14 @@ body {
     max-width: 800px;
     margin-left: auto;
     margin-right: auto;
-    background-color: #181e21
+    /*background-color: #181e21*/ 
+}
+
+.page-item {
+    border-color: white;
+    border-style: solid;
+    max-width: 750px;
+    margin-left: auto;
+    margin-right: auto;
+    padding: 10px
 }
