@@ -1,7 +1,7 @@
 ---
 title: "On Religion"
 date: 2021-07-27T08:02:05+01:00
-draft: true
+draft: false
 ---
 
 When people ask what my religion is I normally reply by saying I'm an atheist. However, this doesn't accurately represent my views. I believe that there might be a god, but I don't know that for certain. I have recently learnt that there is a word for this: agnosticism. Turns out, many other well known people have similar views like Edward Snowden, and Paul McCartney to name a couple. But it must be noted that there are a variety of views that can be attributed to the term agnosticism.
