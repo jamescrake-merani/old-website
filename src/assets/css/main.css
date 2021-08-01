@@ -4,8 +4,17 @@ body {
     font-family: Verdana, Arial
 }
 
+h1 {
+    color: lightsalmon
+}
+
+h2 {
+    color: pink
+}
+
 #site-header {
-    text-align: center
+    text-align: center;
+    color: white
 }
 
 #content {
